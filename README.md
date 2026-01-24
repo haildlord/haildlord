@@ -4,30 +4,35 @@
 <br>
 
 <div align="center">
-<h1 align="center">
-  About : <strong> Hail The Lord 🔱 </strong>
-</h1>
+  <h1 align="center">
+    About : <strong> Hail The Lord 🔱 </strong>
+  </h1>
+  
   <p>
-    <strong>Smart Contract Security Researcher | Solidity<img src="./solidity.png" height="15" valign="middle" alt="solidity"/>| Rust 🦀 </strong>
+    <strong>Smart Contract Security Researcher | Solidity <img src="./solidity.png" height="15" valign="middle" alt="solidity"/> | Rust 🦀 </strong>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum"/>
+    <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana"/>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Foundry-EA4335?style=flat-square&logo=foundry&logoColor=white" alt="Foundry"/>
+    <img src="https://img.shields.io/badge/Hardhat-FFC617?style=flat-square&logo=hardhat&logoColor=black" alt="Hardhat"/>
+    <img src="https://img.shields.io/badge/Anchor-24C8D5?style=flat-square&logo=anchor&logoColor=white" alt="Anchor"/>
+    <img src="https://img.shields.io/badge/Huff-4D21AD?style=flat-square&logo=huff&logoColor=white" alt="Huff"/>
+    <img src="https://img.shields.io/badge/Opcodes-000000?style=flat-square&logo=assembly&logoColor=white" alt="EVMOpcodes"/>
   </p>
 </div>
 
-  <p>
-    I don't just read code; I dismantle it. <br>
-    My work focuses on finding <b>logic errors</b> and <b>economic vulnerabilities</b> that automated tools miss.
+<div align="center">
+  <br>
+  <p style="max-width: 600px;">
+    For 4 years (2019-2023), I built trading apps as a <strong>Fullstack Developer</strong>, but I always felt something was missing. 
+    I loved the rigor of C++ and the thrill of solving complex DSA problems—constantly hunting for that one edge case that breaks the logic.
+    <br><br>
+    In 2023, I discovered <strong>Smart Contract Auditing</strong>, and it finally clicked. It was the perfect arena for my "edge-case obsession." 
+    Now, I combine my engineering background with 2 years of dedicated security research to protect protocols on <strong>Ethereum</strong> and <strong>Solana</strong>.
   </p>
-
 </div>
-
----
-
-### 🛡️ The Mission
-I transitioned into security with a single goal: **to protect the decentralized ecosystem from catastrophic failure.** I spend my days deep in the trenches of **Rust** and **Solidity**, auditing protocols on **Solana** and **Ethereum**. I believe that complexity is the enemy of security, which is why my reports—and my audits—focus on clarity, impact, and direct fixes.
-
-### ⚔️ Arsenal (Tech Stack)
-| Languages | Ecosystems | Focus Areas |
-| :--- | :--- | :--- |
-| **Rust**, Solidity, Python | **Solana**, Ethereum, Sonic | Logic Errors, Private RPCs, DeFi Mechanics |
-
-<br>
-
