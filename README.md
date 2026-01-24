@@ -32,13 +32,14 @@
 </div>
 
 <div align="center">
-  <br>
-
   <h3>
     🛡️ 2 Years of Full-Time Security Research & Public Audits
   </h3>
 </div>
 
+---
+<div>
+ 
   <p style="max-width: 600px; margin: 0 auto; text-align: left;">
     My security mindset wasn't built overnight—it was forged through years of <strong>Competitive Programming and C++</strong>. 
     <br><br>
@@ -46,6 +47,8 @@
     <br><br>
     In 2023, I turned that obsession into a career. I now apply that same algorithmic precision to <strong>Smart Contract Security</strong>, finding the deep logic errors and complex economic vulnerabilities that standard tools—and standard eyes—often miss.
   </p>
+
+  </div>
 
 ---
 
