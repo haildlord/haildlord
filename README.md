@@ -9,20 +9,22 @@
   </h1>
   
   <p>
-    <strong>Smart Contract Security Researcher | Solidity <img src="./solidity.png" height="15" valign="middle" alt="solidity"/> | Rust 🦀 </strong>
+    <img src="https://img.shields.io/badge/Role-Smart_Contract_Security_Researcher-0f0f0f?style=flat&labelColor=24292e" alt="Role"/>
+    <img src="https://img.shields.io/badge/Lang-Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity"/>
+    <img src="https://img.shields.io/badge/Lang-Rust-DEA584?style=flat&logo=rust&logoColor=black" alt="Rust"/>
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum"/>
-    <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana"/>
+    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" alt="Ethereum"/>
+    <img src="https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white" alt="Solana"/>
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Foundry-EA4335?style=flat-square&logo=foundry&logoColor=white" alt="Foundry"/>
-    <img src="https://img.shields.io/badge/Hardhat-FFC617?style=flat-square&logo=hardhat&logoColor=black" alt="Hardhat"/>
-    <img src="https://img.shields.io/badge/Anchor-24C8D5?style=flat-square&logo=anchor&logoColor=white" alt="Anchor"/>
-    <img src="https://img.shields.io/badge/Huff-4D21AD?style=flat-square&logo=huff&logoColor=white" alt="Huff"/>
-    <img src="https://img.shields.io/badge/Opcodes-000000?style=flat-square&logo=assembly&logoColor=white" alt="EVMOpcodes"/>
+    <img src="https://img.shields.io/badge/Foundry-EA4335?style=flat&logo=foundry&logoColor=white" alt="Foundry"/>
+    <img src="https://img.shields.io/badge/Hardhat-FFC617?style=flat&logo=hardhat&logoColor=black" alt="Hardhat"/>
+    <img src="https://img.shields.io/badge/Anchor-24C8D5?style=flat&logo=anchor&logoColor=white" alt="Anchor"/>
+    <img src="https://img.shields.io/badge/Huff-4D21AD?style=flat&logo=huff&logoColor=white" alt="Huff"/>
+    <img src="https://img.shields.io/badge/Opcodes-607D8B?style=flat&logo=assembly&logoColor=white" alt="EVMOpcodes"/>
   </p>
 </div>
 
