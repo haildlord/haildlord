@@ -9,7 +9,6 @@
   </h1>
   
   <p>
-    <img src="https://img.shields.io/badge/Role-Smart_Contract_Security_Researcher-0f0f0f?style=flat&labelColor=24292e" alt="Role"/>
     <img src="https://img.shields.io/badge/Lang-Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity"/>
     <img src="https://img.shields.io/badge/Lang-Rust-DEA584?style=flat&logo=rust&logoColor=black" alt="Rust"/>
   </p>
