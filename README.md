@@ -4,12 +4,9 @@
 <br>
 
 <div align="center">
-  <h3>
-    <img src="YOUR_CAVE_SVG_LINK_HERE" width="30" height="30" valign="middle" alt="Cave"/> 
-    Welcome to Lord's Den
-    <img src="YOUR_CAVE_SVG_LINK_HERE" width="30" height="30" valign="middle" alt="Cave"/>
-  </h3>
-
+<h1 align="center">
+  >_ Connection Established: Hail The Lord
+</h1>
   <p>
     <strong>Smart Contract Security Researcher | Rust & EVM Analyst</strong>
   </p>
