@@ -64,11 +64,11 @@ I am currently deep-diving into the Rust/Solana/Anchor ecosystem to be able to a
 
 # 🏆 Competitive Highlights
 
-| Contest | Description | Ranking | Report | Leaderboard Rank |
-| :--- | :--- | :---: | :---: | :---: |
-| | | | | |
-| | | | | |
-| | | | | |
+| Contest | Ecosystem | concept | Report | Bugs | Rank |
+| :--- | :--- | :--- | :---: | :---: | :---: |
+| **Phi** | Ethereum | Onchain identity | [Report](https://code4rena.com/reports/2024-08-phi) | 4 H, 2 M | 15 |
+| **TraitForge** | Ethereum | NFT game + rewards | [Report](https://code4rena.com/reports/2024-07-traitforge) | 1 H, 3 M | 86 |
+| **Virtuals Protocol** | Ethereum | Co-ownership of AI agents | [Report](https://code4rena.com/reports/2025-04-virtuals-protocol) | 1 H | 92 |
 
 ---
 
