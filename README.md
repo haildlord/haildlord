@@ -8,8 +8,9 @@
   About : <strong> Hail The Lord 🔱 </strong>
 </h1>
   <p>
-    <strong>Smart Contract Security Researcher | Rust & EVM Analyst</strong>
+    <strong>Smart Contract Security Researcher | Solidity <img src="./solidity.png" height="20" valign="middle" alt="solidity"/> & Rust 🦀 </strong>
   </p>
+</div>
 
   <p>
     I don't just read code; I dismantle it. <br>
