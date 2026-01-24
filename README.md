@@ -58,7 +58,7 @@ I am currently deep-diving into the Rust/Solana/Anchor ecosystem to be able to a
 | Contest Name | Ecosystem | Description | Process | Potential |
 | :--- | :--- | :--- | :--- | :--- |
 | **Example Protocol** | Solana | Perpetuals DEX with vAMM | `Judging...` | (5 bugs) |
-| | | | `Judging...` | |
+
 
 ---
 
