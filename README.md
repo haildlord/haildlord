@@ -33,11 +33,14 @@
 
 <div align="center">
   <br>
+
+  <h3>
+    🛡️ 2 Years of Full-Time Security Research & Public Audits
+  </h3>
+
   <p style="max-width: 600px;">
-    For 4 years (2019-2023), I built trading apps as a <strong>Fullstack Developer</strong>, but I always felt something was missing. 
-    I loved the rigor of C++ and the thrill of solving complex DSA problems—constantly hunting for that one edge case that breaks the logic.
+    I specialize in protecting high-value protocols on <strong>Ethereum</strong> and <strong>Solana</strong>. 
     <br><br>
-    In 2023, I discovered <strong>Smart Contract Auditing</strong>, and it finally clicked. It was the perfect arena for my "edge-case obsession." 
-    Now, I combine my engineering background with 2 years of dedicated security research to protect protocols on <strong>Ethereum</strong> and <strong>Solana</strong>.
+    My edge comes from my history: before auditing, I spent <strong>4 years as a Fullstack Developer</strong> building trading apps. I know how developers think, which helps me predict where they make mistakes. I combine that engineering rigor with my obsession for <strong>logic errors</strong> to break code before malicious actors can.
   </p>
 </div>
