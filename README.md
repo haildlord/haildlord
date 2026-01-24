@@ -8,8 +8,11 @@
     About : <strong> Hail The Lord 🔱 </strong>
   </h1>
   
+  <h3>
+    Smart Contract Security Researcher
+  </h3>
+
   <p>
-    <img src="https://img.shields.io/badge/Role-Smart_Contract_Security_Researcher-0366d6?style=flat" alt="Role"/>
     <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white" alt="Solidity"/>
     <img src="https://img.shields.io/badge/rust-%23dea584.svg?style=flat&logo=rust&logoColor=000000" alt="Rust"/>
   </p>
