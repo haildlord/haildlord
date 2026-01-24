@@ -50,7 +50,15 @@
 ---
 
 # 🔭 Current Focus
-I am currently deep-diving into the Solana ecosystem, specifically mastering Anchor and Sealevel runtime constraints.
+I am currently deep-diving into the Rust/Solana/Anchor ecosystem to be able to audit in this blockchain as well.
+
+---
+
+# ⏳ Ongoing Audits
+| Contest Name | Ecosystem | Description | Process | Potential |
+| :--- | :--- | :--- | :--- | :--- |
+| **Example Protocol** | Solana | Perpetuals DEX with vAMM | `Judging...` | (5 bugs) |
+| | | | `Judging...` | |
 
 ---
 
@@ -65,9 +73,7 @@ I am currently deep-diving into the Solana ecosystem, specifically mastering Anc
 ---
 
 # 🕵️ Private Audits (Professional Work)
-**1 Engagement.** 
-
-| ID | Protocol | Lang - Ecosystem | Description | Provider | Findings | Report |
+**1 Engagement.** | ID | Protocol | Lang - Ecosystem | Description | Provider | Findings | Report |
 | :--- | :--- | :--- | :--- | :--- | :---: | :---: |
 | | | | | | | |
 | | | | | | | |
