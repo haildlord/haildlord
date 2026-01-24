@@ -9,9 +9,9 @@
   </h1>
   
   <p>
-    <img src="https://img.shields.io/badge/Smart_Contract_Security_Researcher-0f0f0f?style=flat&labelColor=24292e" alt=""/>
-    <img src="https://img.shields.io/badge/Lang-Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity"/>
-    <img src="https://img.shields.io/badge/Lang-Rust-DEA584?style=flat&logo=rust&logoColor=black" alt="Rust"/>
+    <img src="https://img.shields.io/badge/Role-Smart_Contract_Security_Researcher-0366d6?style=flat" alt="Role"/>
+    <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white" alt="Solidity"/>
+    <img src="https://img.shields.io/badge/rust-%23dea584.svg?style=flat&logo=rust&logoColor=000000" alt="Rust"/>
   </p>
 
   <p>
