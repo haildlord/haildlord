@@ -5,7 +5,7 @@
 
 <div align="center">
 <h1 align="center">
-  >_ Connection Established: Hail The Lord
+  >_ About : Hail The Lord 🔱
 </h1>
   <p>
     <strong>Smart Contract Security Researcher | Rust & EVM Analyst</strong>
