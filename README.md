@@ -57,7 +57,7 @@ I am currently deep-diving into the Rust/Solana/Anchor ecosystem to be able to a
 # ⏳ Ongoing Audits
 | Contest Name | Ecosystem | Concept | Process | Potential Bugs |
 | :--- | :--- | :--- | :--- | :--- |
-| **Flying Tulip** | Ethereum | Spot trading, lending, perpetual futures, insurance, PUT Option | `Judging...` | (5 bugs) |
+| [**Flying Tulip**](https://audits.sherlock.xyz/contests/1223?filter=judging) | Ethereum | Spot trading, lending, perpetual futures, insurance, PUT Option | `Judging...` | (5 bugs) |
 
 
 ---
