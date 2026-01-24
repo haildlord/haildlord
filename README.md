@@ -55,9 +55,9 @@ I am currently deep-diving into the Rust/Solana/Anchor ecosystem to be able to a
 ---
 
 # ⏳ Ongoing Audits
-| Contest Name | Ecosystem | Description | Process | Potential |
+| Contest Name | Ecosystem | Concept | Process | Potential Bugs |
 | :--- | :--- | :--- | :--- | :--- |
-| **Example Protocol** | Solana | Perpetuals DEX with vAMM | `Judging...` | (5 bugs) |
+| **Flying Tulip** | Ethereum | Spot trading, lending, perpetual futures, insurance, PUT Option | `Judging...` | (5 bugs) |
 
 
 ---
