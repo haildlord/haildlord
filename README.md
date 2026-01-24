@@ -38,9 +38,11 @@
     🛡️ 2 Years of Full-Time Security Research & Public Audits
   </h3>
 
-  <p style="max-width: 600px;">
-    I specialize in protecting high-value protocols on <strong>Ethereum</strong> and <strong>Solana</strong>. 
+<p style="max-width: 600px;">
+    My security mindset wasn't built overnight—it was forged through years of <strong>Competitive Programming and C++</strong>. 
     <br><br>
-    My edge comes from my history: before auditing, I spent <strong>4 years as a Fullstack Developer</strong> building trading apps. I know how developers think, which helps me predict where they make mistakes. I combine that engineering rigor with my obsession for <strong>logic errors</strong> to break code before malicious actors can.
+    While building trading apps for 4 years, I didn't just ship features; I applied the rigor of <strong>DSA (Data Structures & Algorithms)</strong> to every line, constantly hunting for the one "edge case" that could break the system. 
+    <br><br>
+    In 2023, I turned that obsession into a career. I now apply that same algorithmic precision to <strong>Smart Contract Security</strong>, finding the deep logic errors and complex economic vulnerabilities that standard tools—and standard eyes—often miss.
   </p>
 </div>
