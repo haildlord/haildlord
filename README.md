@@ -5,7 +5,7 @@
 
 <div align="center">
 <h1 align="center">
-  >_ About : Hail The Lord 🔱
+  About : <strong> Hail The Lord 🔱 </strong>
 </h1>
   <p>
     <strong>Smart Contract Security Researcher | Rust & EVM Analyst</strong>
