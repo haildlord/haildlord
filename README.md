@@ -66,9 +66,11 @@ I am currently deep-diving into the Rust/Solana/Anchor ecosystem to be able to a
 
 | Contest | Ecosystem | concept | Report | Bugs | Rank |
 | :--- | :--- | :--- | :---: | :---: | :---: |
-| **Phi** | Ethereum | Onchain identity | [Report](https://code4rena.com/reports/2024-08-phi) | 4 H, 2 M | 15 |
-| **TraitForge** | Ethereum | NFT game + rewards | [Report](https://code4rena.com/reports/2024-07-traitforge) | 1 H, 3 M | 86 |
-| **Virtuals Protocol** | Ethereum | Co-ownership of AI agents | [Report](https://code4rena.com/reports/2025-04-virtuals-protocol) | 1 H | 92 |
+| **Phi** | Ethereum | Onchain identity | [Report](https://code4rena.com/reports/2024-08-phi) | 4 H, 2 M | [15](https://code4rena.com/audits/2024-08-phi) |
+| **Telcoin-Network** | Ethereum | Narhwal & Bullshark + Axelar | Private | 1 H | [46](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview/leaderboard?search=hail) |
+| **TraitForge** | Ethereum | NFT game + rewards | [Report](https://code4rena.com/reports/2024-07-traitforge) | 1 H, 3 M | [86](https://code4rena.com/audits/2024-07-traitforge) |
+| **Virtuals Protocol** | Ethereum | Co-ownership of AI agents | [Report](https://code4rena.com/reports/2025-04-virtuals-protocol) | 1 H | [92](https://code4rena.com/audits/2025-02-virtuals-protocol) |
+| **RAAC** | Ethereum | Real estate + Finance rails | [Report](https://codehawks.cyfrin.io/c/2025-02-raac/results?t=report) | 1 H, 2 M | [111](https://codehawks.cyfrin.io/c/2025-02-raac/results?page=12) |
 
 ---
 
