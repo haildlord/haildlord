@@ -8,7 +8,7 @@
   About : <strong> Hail The Lord 🔱 </strong>
 </h1>
   <p>
-    <strong>Smart Contract Security Researcher | Solidity <img src="./solidity.png" height="20" valign="middle" alt="solidity"/> & Rust 🦀 </strong>
+    <strong>Smart Contract Security Researcher | Solidity<img src="./solidity.png" height="20" valign="middle" alt="solidity"/> | Rust 🦀 </strong>
   </p>
 </div>
 
