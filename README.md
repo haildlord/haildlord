@@ -73,11 +73,11 @@ I am currently deep-diving into the Rust/Solana/Anchor ecosystem to be able to a
 ---
 
 # 🕵️ Private Audits (Professional Work)
-**1 Engagement.** | ID | Protocol | Lang - Ecosystem | Description | Provider | Findings | Report |
-| :--- | :--- | :--- | :--- | :--- | :---: | :---: |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
+**1 Engagement.**
+
+| Protocol | Ecosystem | Description | Provider | Findings | Report |
+| :--- | :--- | :--- | :--- | :---: | :---: |
+| **Mystic Finance** | Ethereum | Deposit & Rewards | Kann Audits | 2 M | [Report](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Mystic%20Finance.pdf) |
 
 ---
 
