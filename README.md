@@ -49,63 +49,37 @@
 
 ---
 
-# 🔭 Current Focus & Status
-> "Iron sharpens iron." I am currently expanding my toolkit to dominate the Solana ecosystem.
+# 🔭 Current Focus
+I am currently deep-diving into the Solana ecosystem, specifically mastering Anchor and Sealevel runtime constraints.
 
-| **Learning** | **Resource/Focus** | **Status** |
-| :--- | :--- | :--- |
-| **Rust & Anchor** | Solana Program Library (SPL), Anchor Book | 🟢 Active |
-| **Solana Internals** | Sealevel Runtime, Account Model, BPF | 🟡 Deep Dive |
-| **Fuzzing** | Echidna (EVM) -> Trident (Solana) | 🟡 Transitioning |
+---
+
+# 🏆 Competitive Highlights
+
+| Contest | Description | Ranking | Report | Leaderboard Rank |
+| :--- | :--- | :---: | :---: | :---: |
+| | | | | |
+| | | | | |
+| | | | | |
 
 ---
 
 # 🕵️ Private Audits (Professional Work)
-**30+ Engagements.** Specializing in **Solana**, **Rust**, and **CosmWasm**.
-*Requests via Telegram: [@castle_chain](https://t.me/castle_chain)*
+**1 Engagement.** 
 
-| Protocol | Ecosystem | Description | Findings | Report |
-| :--- | :--- | :--- | :---: | :---: |
-| **pAMM (Quantum Labs)** | Rust 🦀 | Multi-point curve-based AMM | 1C, 1H, 2M | [NDA]() |
-| **Coalesce Finance** | Solana | Solend Protocol Fork | 3H, 14M | [📄](link) |
-| **Meteora** | Solana | Position NFT Distribution | 1M, 5L | [📄](link) |
-| **Layer N** | Solana | Settlement & Bridging Program | 1C, 1M | [📄](link) |
-| **BTRFI** | Solana | Staking, Voting, Vaults | 5C, 2H, 5M | [📄](link) |
-| **Ellipsis Plasma** | Solana | Sandwich-Resistant AMM | 1C, 2M | [📄](link) |
-| **Polymer Labs** | Cosmos | Cross-chain L2 State Prover | 4H, 2M | [Soon]() |
-| **ORO** | Solana | Liquid Staking & Gold Trading | 11C, 1H | [📄](link) |
-| **GMX** | Solana | Perpetual Market | 9H, 23M | [📄](link) |
-| **Lido** | Rust | ZK Oracle (SP1) Sanity Check | 1 High | [📄](link) |
-| **Pump.fun** | Solana | Bonding Curve & DEX | 1M, 1L | [NDA]() |
-| **LayerZero** | Solana | Omnichain Fungible Token (OFT) | 1M, 11L | [📄](link) |
----
-
-# 🏆 Competitive Highlights
-*Selected high-impact findings from public contests.*
-
-| Contest | Ranking | Reward | Description | Report |
-| :--- | :---: | :---: | :--- | :---: |
-| **HydraDX** | **2nd 🥈** | **$21,555** | Found Critical logic error in Omnipool AMM math. | [📄](link) |
-| **Centrifuge** | **4th** | **$5,300** | RWA Infrastructure logic breakdown. | [📄](link) |
-| **Centrifuge (C4)** | **11th** | **$1,155** | Liquidity Pool & Bridge vulnerabilities. | [📄](link) |
+| ID | Protocol | Lang - Ecosystem | Description | Provider | Findings | Report |
+| :--- | :--- | :--- | :--- | :--- | :---: | :---: |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
 
 ---
 
-# ⚔️ The Grind: Research & Practice Logs
-> *"Success is what happens after you survive all your mistakes."*
->
-> Before my private audits and big wins, I audited **20+ codebases** in public contests. While I didn't always win, these "reps" were crucial for building my pattern recognition.
+# ⚔️ The Grind and Audits
+*A log of public contests where I sharpened my pattern recognition and understanding of complex logic.*
 
-<details>
-<summary><strong>📂 Click to view my Research History (The "Failures" that taught me)</strong></summary>
-<br>
-
-| Focus Area | Protocol | Key Concept Learned / Studied |
-| :--- | :--- | :--- |
-| **AMMs** | Uniswap V3 (Fork) | Tick math, liquidity density, rounding errors. |
-| **Lending** | Aave V3 (Fork) | Interest rate rays, liquidation logic, flash loans. |
-| **Yield** | Yearn Vaults | Strategy implementation, share price manipulation. |
-| **Bridges** | Wormhole | VAA verification, signature replay attacks. |
-| **Governance** | OpenZeppelin Gov | Voting power checkpoints, proposal cancellation. |
-| **Derivatives** | GMX (Fork) | Oracle manipulation, price staleness, funding rates. |
-</details>
+| # | Contest | Concept Introduced | What I Learnt |
+| :--- | :--- | :--- | :--- |
+| | | | |
+| | | | |
+| | | | |
