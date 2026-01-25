@@ -36,7 +36,7 @@
 <div align="center">
   <br>
   <h3>
-    🛡️ 2 Years of Full-Time Security Research & Public Audits
+    🛡️ 2️⃣ Years of Full-Time Security Research & Public Audits
   </h3>
 </div>
 
