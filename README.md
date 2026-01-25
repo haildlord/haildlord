@@ -34,14 +34,13 @@
 </div>
 
 <div align="center">
+  <br>
   <h3>
     🛡️ 2 Years of Full-Time Security Research & Public Audits
   </h3>
 </div>
 
----
 <div>
- 
   <p style="max-width: 600px; margin: 0 auto; text-align: left;">
     My security mindset wasn't built overnight—it was forged through years of <strong>Competitive Programming and C++</strong>. 
     <br><br>
@@ -49,10 +48,9 @@
     <br><br>
     In 2023, I turned that obsession into a career. I now apply that same algorithmic precision to <strong>Smart Contract Security</strong>, finding the deep logic errors and complex economic vulnerabilities that standard tools—and standard eyes—often miss.
   </p>
+</div>
 
-  </div>
-
-  ----
+---
 
 # 🔭 Current Focus
 I am currently deep-diving into the Rust/Solana/Anchor ecosystem to be able to audit in this blockchain as well.
@@ -64,12 +62,11 @@ I am currently deep-diving into the Rust/Solana/Anchor ecosystem to be able to a
 | :--- | :--- | :--- | :--- | :--- |
 | [**Flying Tulip**](https://audits.sherlock.xyz/contests/1223?filter=judging) | Ethereum | Spot trading, lending, perpetual futures, insurance, PUT Option | `Judging...` | (5 bugs) |
 
-
 ---
 
 # 🏆 Competitive Highlights
 
-| Contest | Ecosystem | concept | Report | Bugs | Rank |
+| Contest | Ecosystem | Concept | Report | Bugs | Rank |
 | :--- | :--- | :--- | :---: | :---: | :---: |
 | **Phi** | Ethereum | Onchain identity | [Report](https://code4rena.com/reports/2024-08-phi) | 4 H, 2 M | [15](https://code4rena.com/audits/2024-08-phi) |
 | **Telcoin-Network** | Ethereum | Narhwal & Bullshark + Axelar | Private | 1 H | [46](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/overview/leaderboard?search=hail) |
@@ -102,7 +99,4 @@ I am currently deep-diving into the Rust/Solana/Anchor ecosystem to be able to a
 | **Burve** | **Uniswap V3 Deep Dive**, Multi-Swap | **The Deep Dive Trap.** I failed this audit because I got obsessed with understanding the underlying Uniswap V3 code instead of the protocol. *Positive:* I took 1 month off just to master UniV3, and now I know it by heart. |
 | **Biconomy** | **ERC-4337**, Account Abstraction, Paymasters | **Complexity Shock.** The assembly-heavy Account Abstraction logic was way above my skill level. It was a humbling check on how much I still had to learn about EVM internals. |
 | **Hypovault** | **Options Strategies**, DeFi Derivatives | **Scope Paralysis.** I wasted the entire contest reading the 6,000 nSLOC Panoptic (parent) codebase instead of the specific Hypovault scope. Learned to draw hard boundaries on what to read. |
-| **Usual** | **Stablecoin**, RWA Backing | **The Rules of the Game.** I submitted 4 bugs, and *all* were disqualified. My Sherlock signal went to 0. It was a brutal lesson in reading contest rules and understanding validity. |
-| **Ethos** | **Reputation Markets**, Social Fi | **Quantity != Quality.** I submitted 7 bugs. All 7 were invalid. I learned that "spraying and praying" reports is a waste of time. |
-| **Beanstalk** | **Diamond Proxies** (EIP-2535) | **My First Audit.** I was overwhelmed. The codebase was huge, and I honestly learnt nothing except that "Diamond Proxies" exist. I barely knew how to read the files. |
-| **Panoptic** | **Perpetual Options** | **The Beginning.** I didn't know how to read a codebase. I stared at the screen for a week and realized I had a mountain to climb. |
+| **Usual** | **Stablecoin**, RWA Backing | **The Rules of the Game.** I submitted 4 bugs, and *all* were disqualified. My Sherlock signal went to
