@@ -49,25 +49,8 @@
   </p>
 
   </div>
----
-<div>How to contact me : </div>
-<p>
-    <a href="https://x.com/hail_d_lord">
-      <img src="https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white" alt="X"/>
-    </a>
 
-    <a href="https://t.me/hail_d_lord">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-
-    <a href="mailto:hailthelord16@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-
-    <img src="https://img.shields.io/badge/Discord-hail_d_lord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
-  </p>
-  
----
+  ----
 
 # 🔭 Current Focus
 I am currently deep-diving into the Rust/Solana/Anchor ecosystem to be able to audit in this blockchain as well.
