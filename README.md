@@ -4,19 +4,26 @@
 <br>
 
 <div align="center">
-  <h1 align="center">
+  <h1 style="margin-bottom: 0;">
     About : <strong> Hail The Lord 🔱 </strong>
   </h1>
 
-<p align="left">
-  <a href="https://x.com/hail_d_lord"><img src="https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white" alt="X"/></a>
-  <a href="mailto:hailthelord16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://t.me/hail_d_lord"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
-</p>
-  
-  <h3>
+  <h3 style="margin-top: 5px;">
     Smart Contract Security Researcher
   </h3>
+
+  <p>
+    <a href="https://x.com/hail_d_lord">
+      <img src="https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white" alt="X"/>
+    </a>
+    &nbsp; <a href="mailto:hailthelord16@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    &nbsp;
+    <a href="https://t.me/hail_d_lord">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+  </p>
 
   <p>
     <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white" alt="Solidity"/>
