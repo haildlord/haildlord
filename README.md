@@ -34,23 +34,6 @@
 </div>
 
 <div align="center">
-  <br>
-  <h3>
-    🛡️ 2 Years of Full-Time Security Research & Public Audits
-  </h3>
-</div>
-
-<div>
-  <p style="max-width: 600px; margin: 0 auto; text-align: left;">
-    My security mindset wasn't built overnight—it was forged through years of <strong>Competitive Programming and C++</strong>. 
-    <br><br>
-    While building trading apps for 4 years, I didn't just ship features; I applied the rigor of <strong>DSA (Data Structures & Algorithms)</strong> to every line, constantly hunting for the one "edge case" that could break the system. 
-    <br><br>
-    In 2023, I turned that obsession into a career. I now apply that same algorithmic precision to <strong>Smart Contract Security</strong>, finding the deep logic errors and complex economic vulnerabilities that standard tools—and standard eyes—often miss.
-  </p>
-</div>
-
-<div align="center">
   <h3>
     🛡️ 2 Years of Full-Time Security Research & Public Audits
   </h3>
