@@ -16,7 +16,8 @@
     <a href="https://x.com/hail_d_lord">
       <img src="https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white" alt="X"/>
     </a>
-    &nbsp; <a href="mailto:hailthelord16@gmail.com">
+    &nbsp;
+    <a href="mailto:hailthelord16@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     &nbsp;
@@ -26,21 +27,26 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white" alt="Solidity"/>
-    <img src="https://img.shields.io/badge/rust-%23dea584.svg?style=flat&logo=rust&logoColor=000000" alt="Rust"/>
+    <strong>Solidity &nbsp;|&nbsp; Rust &nbsp;|&nbsp; Ethereum &nbsp;|&nbsp; Solana</strong>
+    <br>
+    Foundry • Hardhat • Anchor • Huff • EVM Opcodes
   </p>
+</div>
 
-  <p>
-    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" alt="Ethereum"/>
-    <img src="https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white" alt="Solana"/>
-  </p>
+<div align="center">
+  <br>
+  <h3>
+    🛡️ 2 Years of Full-Time Security Research & Public Audits
+  </h3>
+</div>
 
-  <p>
-    <img src="https://img.shields.io/badge/Foundry-EA4335?style=flat&logo=foundry&logoColor=white" alt="Foundry"/>
-    <img src="https://img.shields.io/badge/Hardhat-FFC617?style=flat&logo=hardhat&logoColor=black" alt="Hardhat"/>
-    <img src="https://img.shields.io/badge/Anchor-24C8D5?style=flat&logo=anchor&logoColor=white" alt="Anchor"/>
-    <img src="https://img.shields.io/badge/Huff-4D21AD?style=flat&logo=huff&logoColor=white" alt="Huff"/>
-    <img src="https://img.shields.io/badge/Opcodes-607D8B?style=flat&logo=assembly&logoColor=white" alt="EVMOpcodes"/>
+<div>
+  <p style="max-width: 600px; margin: 0 auto; text-align: left;">
+    My security mindset wasn't built overnight—it was forged through years of <strong>Competitive Programming and C++</strong>. 
+    <br><br>
+    While building trading apps for 4 years, I didn't just ship features; I applied the rigor of <strong>DSA (Data Structures & Algorithms)</strong> to every line, constantly hunting for the one "edge case" that could break the system. 
+    <br><br>
+    In 2023, I turned that obsession into a career. I now apply that same algorithmic precision to <strong>Smart Contract Security</strong>, finding the deep logic errors and complex economic vulnerabilities that standard tools—and standard eyes—often miss.
   </p>
 </div>
 
