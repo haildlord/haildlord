@@ -58,9 +58,7 @@ I am currently deep-diving into the Rust/Solana/Anchor ecosystem to be able to a
 ---
 
 # ⏳ Ongoing Audits
-| Contest Name | Ecosystem | Concept | Process | Potential Bugs |
-| :--- | :--- | :--- | :--- | :--- |
-| [**Flying Tulip**](https://audits.sherlock.xyz/contests/1223?filter=judging) | Ethereum | Spot trading, lending, perpetual futures, insurance, PUT Option | `Judging...` | (5 bugs) |
+*None at the moment. Open for private engagements.*
 
 ---
 
@@ -88,15 +86,16 @@ I am currently deep-diving into the Rust/Solana/Anchor ecosystem to be able to a
 # ⚔️ The Grind and Audits
 *A log of public contests where I sharpened my pattern recognition and understanding of complex logic.*
 
-| Contest | Concept Encountered | The Lesson (Struggle & Growth) |
-| :--- | :--- | :--- |
-| **Ekubo** | **Transient Storage (EIP-1153)**, Till Pattern, Inline Assembly | **The Assembly Hurdle.** The heavy use of low-level assembly initially confused me. I forced myself to learn the "Till" structure, unlocking a new angle of viewing code execution beyond standard Solidity. |
-| **Megapot** | **On-Chain Entropy**, Randomness (VRF alternatives) | **Refining Process.** My first successful "Shadow Audit." I focused entirely on audit structure rather than just finding bugs, which significantly improved my reporting clarity. |
-| **Ammalgam** | **Capital Efficiency**, Lending + Trading Math | **Methodology Overhaul.** I performed poorly during the contest, so I spent **2 months** reviewing my mistakes. I realized my pattern was wrong. *Redemption:* I later found a Medium bug during a shadow audit that 100+ wardens missed. |
-| **Covenant** | **Leverage**, Credit Multipliers | **Managing Anxiety.** I struggled with "imposter syndrome" when I couldn't find bugs early. I learned to treat audits like an exam: skip the hard parts, keep moving, and don't panic if the code is clean. |
-| **Hybra** | **Hyperliquid L1**, Liquidity Layers | **Code > Docs.** I wasted days reading documentation that confused me. This contest taught me to ignore the noise and read the codebase *first* to build my own mental model. |
-| **Plaza** | **Dual-Token Economics** (Pegged vs. Leverage) | **Economic Logic.** Understanding how a leverage token backs a pegged token blew my mind. It shifted my focus from syntax errors to high-level economic de-pegging risks. |
-| **Burve** | **Uniswap V3 Deep Dive**, Multi-Swap | **The Deep Dive Trap.** I failed this audit because I got obsessed with understanding the underlying Uniswap V3 code instead of the protocol. *Positive:* I took 1 month off just to master UniV3, and now I know it by heart. |
-| **Biconomy** | **ERC-4337**, Account Abstraction, Paymasters | **Complexity Shock.** The assembly-heavy Account Abstraction logic was way above my skill level. It was a humbling check on how much I still had to learn about EVM internals. |
-| **Hypovault** | **Options Strategies**, DeFi Derivatives | **Scope Paralysis.** I wasted the entire contest reading the 6,000 nSLOC Panoptic (parent) codebase instead of the specific Hypovault scope. Learned to draw hard boundaries on what to read. |
-| **Usual** | **Stablecoin**, RWA Backing | **The Rules of the Game.** I submitted 4 bugs, and *all* were disqualified. My Sherlock signal went to
+| Contest | Ecosystem | Concept Encountered | The Lesson (Struggle & Growth) |
+| :--- | :--- | :--- | :--- |
+| **Flying Tulip** | Ethereum | Spot trading, lending, perps, insurance | **The Complexity Test.** Balanced multiple financial primitives simultaneously. Found 5 bugs during the judging phase. |
+| **Ekubo** | Ethereum | **Transient Storage (EIP-1153)**, Till Pattern | **The Assembly Hurdle.** The heavy use of low-level assembly initially confused me. I forced myself to learn the "Till" structure, unlocking a new angle of viewing code. |
+| **Megapot** | Ethereum | **On-Chain Entropy**, Randomness | **Refining Process.** My first successful "Shadow Audit." I focused entirely on audit structure rather than just finding bugs, improving my reporting clarity. |
+| **Ammalgam** | Ethereum | **Capital Efficiency**, Lending + Trading Math | **Methodology Overhaul.** Spent 2 months reviewing mistakes here. Redemption: Later found a Medium bug during a shadow audit that 100+ wardens missed. |
+| **Covenant** | Ethereum | **Leverage**, Credit Multipliers | **Managing Anxiety.** Learned to treat audits like an exam: skip the hard parts, keep moving, and don't panic if the code is clean. |
+| **Hybra** | Ethereum | **Hyperliquid L1**, Liquidity Layers | **Code > Docs.** Wasted days reading documentation that confused me. Taught me to ignore the noise and read the codebase first to build my own mental model. |
+| **Plaza** | Ethereum | **Dual-Token Economics** | **Economic Logic.** Shifted my focus from syntax errors to high-level economic de-pegging risks and leverage-backed token mechanics. |
+| **Burve** | Ethereum | **Uniswap V3 Deep Dive**, Multi-Swap | **The Deep Dive Trap.** Took 1 month off just to master UniV3 internals after failing to grasp the protocol interaction during the audit. Now I know it by heart. |
+| **Biconomy** | Ethereum | **ERC-4337**, Account Abstraction | **Complexity Shock.** The assembly-heavy logic was a humbling check on how much I still had to learn about EVM internals. |
+| **Hypovault** | Ethereum | **Options Strategies**, DeFi Derivatives | **Scope Paralysis.** Learned to draw hard boundaries on what to read after wasting time on the parent codebase instead of the specific scope. |
+| **Usual** | Ethereum | **Stablecoin**, RWA Backing | **The Rules of the Game.** Submitted 4 bugs that were disqualified. A harsh lesson in understanding specific platform judging rules (Sherlock). |
