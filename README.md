@@ -40,7 +40,7 @@
 
 <div align="center">
   <h2>
-    🛡️ 2 Years Security Research &amp; Audits &nbsp;&nbsp;|&nbsp;&nbsp; 🛠️ 2 Years Web3 Protocol Development
+  2 Years Security Research &amp; Audits &nbsp;&nbsp;|&nbsp;&nbsp; 2 Years Web3 Protocol Development
   </h2>
 </div>
 
@@ -60,7 +60,7 @@
 <hr>
 <br>
 
-# 🏆 Security Audits &amp; Competitive Highlights
+# Security Audits &amp; Competitive Highlights
 
 <br>
 
@@ -77,11 +77,11 @@
 <hr>
 <br>
 
-# 🚀 Production Protocols &amp; Smart Contracts Developed
+# Production Protocols &amp; Smart Contracts Developed
 
 <!-- FUTURE PROTOCOLS CAN BE SLOTTED DIRECTLY ABOVE OR BELOW THIS BLOCK -->
 
-### 🎮 TraitForge
+### TraitForge
 
 > **Archetype:** GameFi &bull; Dynamic NFT Tokenomics &bull; Economic Honeypot  
 > **Network:** **Base Mainnet** (Production)  
@@ -89,29 +89,22 @@
 > **Repository:** [`TraitForge/traitforge-client`](https://github.com/TraitForge/traitforge-client)
 
 **Overview:**  
-Architected a 12-contract GameFi ecosystem featuring dynamic bonding-curve minting prices, deterministic on-chain genetics/entropy, breeding and merging loops, and a self-balancing game-theory honeypot (Nuke Fund).
+Architected the core game mechanics including bonding-curve minting pricing, generational NFT lifecycle limits, peer-to-peer secondary trading with automated protocol tax routing, and breeding/forging contracts.
 
 <br>
 
 <details>
-<summary><b>🔍 View Deployed Smart Contracts &amp; Architecture (12 Contracts)</b></summary>
+<summary><b>🔍 View Deployed Smart Contracts &amp; Architecture</b></summary>
 
 <br>
 
-| Contract | Type / Role | Onchain Proof | Details |
-| :--- | :--- | :---: | :--- |
-| **`TraitForgeNft`** | Core ERC-721 Engine | [`0xCabF...`](https://basescan.org/address/0xCabF9e769a9Dd211836A0e417f3f5fDF57EF2309) | • Implements dynamic bonding-curve minting prices across generations.<br>• Enforces strict 10,000-entity generation caps with automatic progression. |
-| **`EntropyGenerator`** | Deterministic Randomness | [`0x3124...`](https://basescan.org/address/0x31248a94C8ec87991834f175b1454D4e0E16D0A0) | • Derives 13-digit pseudo-random entropy values governing entity roles and traits.<br>• Computes hereditary blended entropy for bred offspring entities (`getInbredEntropy`). |
-| **`EntityForging`** | Breeding / Merging Protocol | [`0xfCC7...`](https://basescan.org/address/0xfCC74E0c0f63a6aF6A292fC3cA44C2082C138708) | • Pairs listed Forgers with Mergers to generate new generational entities.<br>• Distributes forging fees between entity owners and protocol while enforcing limits. |
-| **`EntityTrading`** | Native P2P Marketplace | [`0x3a61...`](https://basescan.org/address/0x3a61c55bC64B34246A890F3aD5BabC4B74dAb777) | • Direct peer-to-peer trading protocol supporting listing, buying, and cancelling NFTs in ETH.<br>• Collects a protocol sales tax cut automatically routed into the Nuke Fund honeypot. |
-| **`NukeFund`** | Central Honeypot Fund | [`0xb663...`](https://basescan.org/address/0xb66344cAFaA61d15b7cd6cC68B3BBaADffAbd235) | • Central economic pool accumulating ETH from minting, forging, and marketplace taxes.<br>• Lets players burn ("nuke") eligible entities to claim a proportional share of the pot. |
-| **`LottFund`** | Chainlink VRF Lottery | [`0x92ac...`](https://basescan.org/address/0x92ac212CBc1B23d66eEaCEFB7993520187Bc6293) | • Round-based jackpot system using Chainlink VRF for provably fair onchain drawings.<br>• Manages batch bidding, distributes jackpot pools to winners, and routes revenue splits. |
-| **`Trait`** | ERC-20 Utility Token | [`0xd304...`](https://basescan.org/address/0xd304C83b6b7153E3B71d7f24dA15Dd9615497979) | • Native ecosystem currency with controlled minting, burn, and emergency pausability.<br>• Distributed via airdrops and integrated across community incentives and DAO reserves. |
-| **`DAOFund`** | Ecosystem Treasury | [`0xF99B...`](https://basescan.org/address/0xF99Bfb20cDe17e52424a8923f78f979C3a65eD15) | • Protocol treasury holding **$10,000+ TVL** for decentralized governance.<br>• Connected to Uniswap V2 router for automated protocol liquidity and token swaps. |
-| **`DevFund`** | Weighted Reward Vault | [`0x87F1...`](https://basescan.org/address/0x87F1a488229995c9c24C7C528440b21A946F36c1) | • Manages contributor fee allocation using a proportional weight distribution model.<br>• Accumulates ongoing protocol revenue; allows developers to withdraw earned ETH. |
-| **`Airdrop`** | Distribution Vault | [`0x8f1D...`](https://basescan.org/address/0x8f1D2e2049A9FC72cE4CDA4eC3b920CBb108eb1B) | • Manages allocations of `Trait` tokens to early players and whitelist participants.<br>• Tracks user claim states (`userInfo`) with pause and access-control protection. |
-| **`NukeRouter`** | Transaction Router | [`0x3519...`](https://basescan.org/address/0x35192165759556e3E150De2b31ad39F8aaC4F6d4) | • Intermediary router batching approvals and contract interactions into atomic calls.<br>• Streamlines multi-step player interactions with the Nuke Fund to optimize UX and gas. |
-| **`PriceOracle`** | Chainlink Feed Adapter | [`0x694A...`](https://sepolia.etherscan.io/address/0x694AA1769357215DE4FAC081bf1f309aDC325306) | • Interfaces with Chainlink's ETH/USD aggregator for real-time market data.<br>• Powers frontend conversions for dynamic mint pricing and real-time USD fiat valuations. |
+| Smart Contract | Deployed Address | Quick Lookup |
+| :--- | :---: | :--- |
+| [**DevFund**](https://github.com/TraitForge/traitforge-client/blob/main/lib/abis/DevFund.ts) | [`0x87F1a488229995c9c24C7C528440b21A946F36c1`](https://basescan.org/address/0x87F1a488229995c9c24C7C528440b21A946F36c1) | • Manages contributor fee allocation using a proportional weight distribution model.<br>• Accumulates ongoing protocol revenue; allows developers to withdraw earned ETH. |
+| [**TraitForgeNft**](https://github.com/TraitForge/traitforge-client/blob/main/lib/abis/TraitForgeNft.ts)<br>*(NFT Contract)* | [`0xCabF9e769a9Dd211836A0e417f3f5fDF57EF2309`](https://basescan.org/address/0xCabF9e769a9Dd211836A0e417f3f5fDF57EF2309) | • Implements dynamic bonding-curve minting prices across generations.<br>• Enforces strict 10,000-entity generation caps with automatic progression. |
+| [**EntityTrading**](https://github.com/TraitForge/traitforge-client/blob/main/lib/abis/EntityTrading.ts)<br>*(Marketplace)* | [`0x3a61c55bC64B34246A890F3aD5BabC4B74dAb777`](https://basescan.org/address/0x3a61c55bC64B34246A890F3aD5BabC4B74dAb777) | • Direct peer-to-peer trading protocol supporting listing, buying, and cancelling NFTs in ETH.<br>• Collects a protocol sales tax cut automatically routed into the Nuke Fund honeypot. |
+| [**EntityForging**](https://github.com/TraitForge/traitforge-client/blob/main/lib/abis/EntityForging.ts)<br>*(Breeding / Forging)* | [`0xfCC74E0c0f63a6aF6A292fC3cA44C2082C138708`](https://basescan.org/address/0xfCC74E0c0f63a6aF6A292fC3cA44C2082C138708) | • Pairs listed Forgers with Mergers to generate new generational entities.<br>• Distributes forging fees between entity owners and protocol while enforcing limits.
+
 
 </details>
 
@@ -119,7 +112,7 @@ Architected a 12-contract GameFi ecosystem featuring dynamic bonding-curve minti
 <hr>
 <br>
 
-# ⚔️ The Grind and Audits
+# The Grind and Audits
 *A log of public contests where I sharpened my pattern recognition and understanding of complex logic.*
 
 <br>
