@@ -117,7 +117,7 @@ Architected the core game mechanics including bonding-curve minting pricing, gen
 > **Archetype:** DeFi &bull; Perpetual Options &bull; Permissionless Options + Lending  
 > **Network:** **Ethereum Mainnet** (Production)  
 > **TVL:** **~$800K in USDC** &bull; [Etherscan Proof](https://etherscan.io/address/0x00000000000E98f6c5aE16835bAdF2f7cC0d49D7)  
-> **Protocol:** V2 (Uniswap v3 / v4 markets) &bull; Developed by Axicon Labs
+> **Protocol:** V2 (Uniswap v3 / v4 markets) &bull;
 
 **Overview:**  
 Panoptic is a permissionless protocol for **perpetual options** built on concentrated-liquidity AMMs (Uniswap v3/v4). Options have **no expiry** and no upfront premium. Buyers pay **streamia** (streaming premium) that accrues from real trading activity in the underlying pool, not from Black-Scholes quotes. Sellers are paid that premium for providing liquidity. Collateral is held in ERC-4626 vaults. Solvency is enforced against internal, AMM-derived price observations (spot EMA, TWAP and median oracle), so no external price feed is needed. I analyzed the core contracts: position lifecycle, collateral and interest accounting, liquidations and forced exercises, and safe-mode controls.
